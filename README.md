@@ -2,6 +2,7 @@
 - Task 1 - Linux Shell.
 - Task 2 - Bash-script.
 - Task 3 - Proccess & Files.
+- Task 4 - Thread-Pool.
 
 ## Task 1 - Creating Linux shell using C
 This is an implementation of Linux shell as part of Operating Systems course at Bar Ilan University.<br/>
@@ -48,4 +49,10 @@ This repo is part of Operating Systems course at Bar Ilan University.<br/>
 - I/O redirection.
 - Parsing files and working with Strings.
 - Using dirent C struct.
+
+## ThreadPool
+This is a thread-pool implementation as part of Operating Systems course at Bar Ilan University.<br/>
+- Creating number of threads to perform number of tasks.
+- Inserting tasks to missions queue.
+- Destroying the thread pool and free all allocated resources.
 
