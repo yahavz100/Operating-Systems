@@ -1,5 +1,5 @@
 #!/bin/bash
-# Yahav Zarfati 313163255
+# Yahav Zarfati
 #Check if input is valid
 if [ $# -lt 3 ]
 then
