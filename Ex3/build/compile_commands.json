@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/d/Yahav/Study/Computer Science/מערכות הפעלה/ex3/build",
+  "command": "/usr/bin/cc   -g   -std=gnu11 -o CMakeFiles/ex3.dir/ex31.c.o   -c \"/mnt/d/Yahav/Study/Computer Science/מערכות הפעלה/ex3/ex31.c\"",
+  "file": "/mnt/d/Yahav/Study/Computer Science/מערכות הפעלה/ex3/ex31.c"
+},
+{
+  "directory": "/mnt/d/Yahav/Study/Computer Science/מערכות הפעלה/ex3/build",
+  "command": "/usr/bin/cc   -g   -std=gnu11 -o CMakeFiles/ex3.dir/ex32.c.o   -c \"/mnt/d/Yahav/Study/Computer Science/מערכות הפעלה/ex3/ex32.c\"",
+  "file": "/mnt/d/Yahav/Study/Computer Science/מערכות הפעלה/ex3/ex32.c"
+}
+]
