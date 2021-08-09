@@ -42,7 +42,7 @@ ex23
 
 ![alt text](Ex2/Extra/Capture3.JPG)
 
-## Proccess-and-Files
+## Task 3 - Proccess-and-Files
 This repo is part of Operating Systems course at Bar Ilan University.<br/>
 
 - Working with file-descriptors.
@@ -50,7 +50,7 @@ This repo is part of Operating Systems course at Bar Ilan University.<br/>
 - Parsing files and working with Strings.
 - Using dirent C struct.
 
-## ThreadPool
+## Task 4 - ThreadPool
 This is a thread-pool implementation as part of Operating Systems course at Bar Ilan University.<br/>
 - Creating number of threads to perform number of tasks.
 - Inserting tasks to missions queue.
