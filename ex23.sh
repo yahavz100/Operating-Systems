@@ -1,5 +1,5 @@
 #!/bin/bash
-# Yahav Zarfati 313163255
+# Yahav Zarfati
 #Declare flags
 HOST=0
 SYSTEM=0
