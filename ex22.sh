@@ -1,5 +1,5 @@
 #!/bin/bash
-# Yahav Zarfati 313163255
+# Yahav Zarfati
 #Check if input invalid
 export LC_ALL=C
 if [ $# -lt 4 ]
